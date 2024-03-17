@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sankha091@gmail.com**
 
-- 📄 Get my resume on [https://drive.google.com/file/d/1AyARktSCD0dZQtmi9_O3GAnwqJhcELka/view?usp=sharing](https://drive.google.com/file/d/1AyARktSCD0dZQtmi9_O3GAnwqJhcELka/view?usp=sharing)
+- 📄 Get my resume on [https://drive.google.com/file/d/1tGvImGyYjxxv3BSulOuBmTWQShiCdRh2/view?usp=sharing](https://drive.google.com/file/d/1tGvImGyYjxxv3BSulOuBmTWQShiCdRh2/view?usp=sharing)
 
 - ⚡ Fun fact **I love to cook food and watch Formula 1**
 
