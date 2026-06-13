@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://real-batman.io)
 <h1 align="center">Hi 👋, I'm Sankha, but you can call me Batman</h1>
-<h3 align="center">A passionate Dsts Analyst from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=real-batman&label=Profile%20views&color=0e75b6&style=flat" alt="real-batman" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **various Open Source Projects**
 
-- 💬 Ask me about **Data analysis, data Scienca and F1**
+- 💬 Ask me about **Data analysis, Data Science, Statistics, and F1**
 
 - 📫 How to reach me **sankha091@gmail.com**
 
