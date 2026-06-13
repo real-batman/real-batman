@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://real-batman.io)
 <h1 align="center">Hi 👋, I'm Sankha, but you can call me Batman</h1>
-<h3 align="center">A passionate Flutter developer from India</h3>
+<h3 align="center">A passionate Dsts Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=real-batman&label=Profile%20views&color=0e75b6&style=flat" alt="real-batman" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **various Open Source Projects**
 
-- 💬 Ask me about **Flutter and Game dev**
+- 💬 Ask me about **Data analysis, data Scienca and F1**
 
 - 📫 How to reach me **sankha091@gmail.com**
 
@@ -20,9 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aich_sankha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aich_sankha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sankha007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sankha007" height="30" width="40" /></a>
-<a href="https://www.behance.net/real-batman1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="real-batman1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/real-batman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="real-batman" height="30" width="40" /></a>
 </p>
 
